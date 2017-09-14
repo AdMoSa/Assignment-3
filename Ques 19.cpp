@@ -34,8 +34,5 @@ int main()
 	else
 		cout << "Grade F";
 	
-	cin.clear();
-	cin.ignore(35767, '\n');
-	cin.get();
 	return 0;
 }
